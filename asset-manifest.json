@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo_react_vite/static/css/main.9a2fd7e2.css",
+    "main.js": "/todo_react_vite/static/js/main.141d9264.js",
+    "static/js/787.63e47474.chunk.js": "/todo_react_vite/static/js/787.63e47474.chunk.js",
+    "index.html": "/todo_react_vite/index.html",
+    "main.9a2fd7e2.css.map": "/todo_react_vite/static/css/main.9a2fd7e2.css.map",
+    "main.141d9264.js.map": "/todo_react_vite/static/js/main.141d9264.js.map",
+    "787.63e47474.chunk.js.map": "/todo_react_vite/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2fd7e2.css",
+    "static/js/main.141d9264.js"
+  ]
+}
